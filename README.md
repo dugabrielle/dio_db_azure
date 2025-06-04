@@ -30,7 +30,7 @@ Recursos como backup e recuperação são oferecidos com facilidade e até com u
 
 - Gerenciamento e monitoramento simplificados 
 
-Com ferramentas integradas, dá para gerenciar tudo — tanto servidores locais quanto em nuvem — numa tela só, facilitando bastante o controle. 
+Com ferramentas integradas, é possível gerenciar tanto servidores locais quanto em nuvem em uma tela só, o que facilita muito o controle. 
 
 ## Configuração do Banco de Dados
 
