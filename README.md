@@ -8,7 +8,7 @@ A computação em nuvem permite acesso a serviços como servidores, armazenament
 
 **Principais vantagens do uso do banco de dados gerenciado na nuvem**
 
-- Escalabilidade: Custos otimizados 
+- Custos otimizados 
 
 Usar banco na nuvem ajuda a economizar com infraestrutura, manutenção e espaço físico. Além disso, é possível ajustar o uso de recursos para pagar apenas pelo necessário. 
 
