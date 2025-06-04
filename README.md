@@ -4,7 +4,7 @@
 
 **Importância na computação em nuvem**
 
-A computação em nuvem permite acesso a serviços como servidores, armazenamento e bancos de dados. Mas vale lembrar que não existe uma única solução para todos — existem modelos e tipos de nuvem diferentes para cada situação. 
+A computação em nuvem permite acesso a serviços como servidores, armazenamento e bancos de dados. Mas vale lembrar que não existe uma única solução para todos, existem modelos e tipos de nuvem diferentes para cada situação. 
 
 **Principais vantagens do uso do banco de dados gerenciado na nuvem**
 
